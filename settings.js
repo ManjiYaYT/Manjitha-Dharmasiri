@@ -36,19 +36,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94785602293'] //ur owner number
-global.ownername = "Dineth Rusiru" //ur owner name
-global.ytname = "YT: Dineth Geek" //ur yt chanel name
+global.vcardowner = ['94717428026'] //ur owner number
+global.ownername = "Isuru Manjitha" //ur owner name
+global.ytname = "YT: Manjitha Dharmasiri" //ur yt chanel name
 global.socialm = "FB : Dineth Rusiru" //ur github or insta name
 global.location = "Sri Lanka, Matara" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94785602293']
-global.ownertag = '94785602293' //ur tag number
-global.botname = '•°Dineth Bot°•' //ur bot name
-global.ig = "https://m.youtube.com/watch?v=V1ULk8G1q-w" //your theme url which will be displayed on whatsapp
-global.myweb = "https://m.youtube.com/channel/UCpm8tjbf_IbidQWb9YDxDXw" //ur website to be displayed
-global.sc = 'https://m.youtube.com/watch?v=l-Rg2k4IjRw' //script link
+global.owner = ['94714204539']
+global.ownertag = '94714204539' //ur tag number
+global.botname = 'Manjitha Dharmasiri' //ur bot name
+global.ig = "https://www.youtube.com/channel/UC1l-5-M_OFgYkvkL8PYHCcw" //your theme url which will be displayed on whatsapp
+global.myweb = "https://www.youtube.com/channel/UC1l-5-M_OFgYkvkL8PYHCcw" //ur website to be displayed
+global.sc = 'https://www.youtube.com/channel/UC1l-5-M_OFgYkvkL8PYHCcw' //script link
 global.linkz = 'https://m.youtube.com/watch?v=l-Rg2k4IjRw'
 global.reactmoji = "😉" //ur menu react emoji
 global.themeemoji = "🚫" //ur theme emoji
